@@ -6,7 +6,7 @@
     <title>My Portfolio</title>
     <?php wp_head() ?>
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100">
 
 <nav class="navbar navbar-expand-lg navbar-light ">
     <div class="container">
